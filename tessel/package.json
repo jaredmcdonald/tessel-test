@@ -1,0 +1,16 @@
+{
+  "name": "tessel-test",
+  "version": "0.0.0",
+  "description": "",
+  "dependencies": {
+    "ambient-attx4": "~0.1.4",
+    "tessel": "~0.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tessel"
+  ]
+}
